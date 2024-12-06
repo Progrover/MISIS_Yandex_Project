@@ -15,4 +15,4 @@
 
 
 ## **GitHub Pages**  
-[Посмотреть сайт на GitHub Pages](https://captainsharky.github.io/Russia-Travel-Yandex/)
+[Посмотреть сайт на GitHub Pages](https://progrover.github.io/MISIS_Yandex_Project/)
